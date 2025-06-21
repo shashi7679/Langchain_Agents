@@ -1,0 +1,2 @@
+DATABASE_NAME = "myDB"
+TABLE_NAME = "myTABLE"

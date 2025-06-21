@@ -1,0 +1,9 @@
+langchain 
+langchain-core 
+langchain-community 
+langchain-groq 
+python-dotenv
+db-sqlite3
+pandas
+langgraph
+
