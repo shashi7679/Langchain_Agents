@@ -11,6 +11,11 @@ from prompts import BASE_SQL_PROMPT
 
 
 class SQLAgent:
+    """
+    Input Args:
+        - connection: SQLlite connection uri
+        - llm: llm instance
+    """
     def __init__(self, connection, llm):
         self.llm = llm
         self.connection = connection
